@@ -7,7 +7,7 @@ export default function LoginView() {
         <div>LoginView</div>
         <nav>
             <Link to="/auth/register"> 
-                ¿No tienes una cuenta? Crea una aqui AAAAAAAAAAAAAAAAA
+                ¿No tienes una cuenta? Crea una aquiiiiiiiiiiiiiiiiiiiiiiii
             </Link>
         </nav>
     </>
